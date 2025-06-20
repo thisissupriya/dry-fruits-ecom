@@ -1,10 +1,9 @@
 # Main Command To PUSH Project
 git add .
-
 git commit -m "Update: progress on [feature or video part]"
-
 git push
 
+Girish Patil Push Request 
 
 
 # Getting Started with Create React App
