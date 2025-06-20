@@ -1,3 +1,7 @@
+# Main Command To PUSH Project
+git add . && git commit -m "Update: progress on [feature or video part]" && git push
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
