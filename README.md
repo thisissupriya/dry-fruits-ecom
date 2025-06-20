@@ -1,9 +1,11 @@
 # Main Command To PUSH Project
 git add .
+
 git commit -m "Update: progress on [feature or video part]"
+
 git push
 
-4fsfsdjv
+
 
 # Getting Started with Create React App
 
